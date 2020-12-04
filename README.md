@@ -4,8 +4,8 @@
 
 > Work In Progress
 
-- https://jupyterlab.readthedocs.io/en/stable/user/extensions.html#themes
-- https://jupyterlab.readthedocs.io/en/stable/developer/extension_dev.html#themes
+- https://jupyterlab.readthedocs.io/en/latest/user/extensions.html#themes
+- https://jupyterlab.readthedocs.io/en/latest/developer/extension_dev.html#themes
 
 ## Cookiecutter
 
