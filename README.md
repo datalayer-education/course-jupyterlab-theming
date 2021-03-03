@@ -49,6 +49,7 @@
 - https://github.com/epi2me-labs/epi2melabs-theme
 - https://github.com/bengal-tiger/jupyter_theme_youcan
 - https://github.com/antonio-f/jupyterlab_dark_theme
+- https://github.com/gt-coar/jupyterlab-gt-coar-theme
 
 ## Toggle
 
