@@ -33,6 +33,7 @@
 - https://github.com/shahinrostami/theme-purple-please
 - https://github.com/nfultz/jupyterlab-theme-simple-extension
 - https://github.com/simicd/jupyterlab-tailwind-theme
+- https://github.com/dunovank/jupyterlab_darkside_ui
 - https://github.com/arbennett/jupyterlab-themes
 - https://github.com/kenshohara/theme-nord-extension
 - https://github.com/mohirio/jupyterlab-horizon-theme
