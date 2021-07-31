@@ -51,6 +51,8 @@
 - https://github.com/bengal-tiger/jupyter_theme_youcan
 - https://github.com/antonio-f/jupyterlab_dark_theme
 - https://github.com/gt-coar/jupyterlab-gt-coar-theme
+- https://github.com/dunovank/jupyterlab_legos_ui
+- https://github.com/dunovank/jupyterlab_darkside_ui
 
 ## Toggle
 
